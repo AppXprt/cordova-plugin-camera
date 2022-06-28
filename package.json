@@ -46,14 +46,14 @@
         "cordova": ">=9.0.0"
       },
       "5.0.4-dev": {
-        "cordova-android": "<10.0.0",
+        "cordova-android": "<9.1.0",
         "cordova-ios": ">=5.1.0",
         "cordova": ">=9.0.0"
       },
       "6.0.0": {
         "cordova-android": ">=9.1.0",
         "cordova-ios": ">=6.2.0",
-        "cordova": ">=10.0.0"
+        "cordova": ">=9.1.0"
       },
       "7.0.0": {
         "cordova": ">100"
